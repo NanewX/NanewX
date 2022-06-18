@@ -1,0 +1,9 @@
+{
+	"ip":"NewSpaceSMP.aternos.me",
+	"port": "44363",
+	"name": "NanewBot",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register bot1234",
+	"login-cmd":"/login bot1234"
+}
